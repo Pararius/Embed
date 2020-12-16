@@ -3,7 +3,7 @@ declare(strict_types = 1);
 
 return [
     'authorName' => 'desescribir',
-    'authorUrl' => 'https://www.flickr.com/photos/desescribir/',
+    'authorUrl' => 'https://www.flickr.com/photos/desescribir',
     'cms' => null,
     'code' => [
         'html' => '<a data-flickr-embed=\'true\' href=\'https://www.flickr.com/photos/34912442@N03\' title=\'desescribir\'><img src=\'https://live.staticflickr.com/8765/17244790083_d2f40f713f_b.jpg\' width=\'800\' height=\'600\' alt=\'Cantos de berce\'></a><script async src=\'https://embedr.flickr.com/assets/client-code.js\' charset=\'utf-8\'></script>',
@@ -27,7 +27,7 @@ return [
     'publishedTime' => null,
     'redirect' => null,
     'title' => 'desescribir',
-    'url' => 'https://www.flickr.com/photos/desescribir/',
+    'url' => 'https://www.flickr.com/photos/desescribir',
     'linkedData' => [
         [
             '@context' => 'http://schema.org',
@@ -66,11 +66,11 @@ return [
         'flickr_type' => 'photostream',
         'title' => 'desescribir',
         'author_name' => 'desescribir',
-        'author_url' => 'https://www.flickr.com/photos/desescribir/',
+        'author_url' => 'https://www.flickr.com/photos/desescribir',
         'width' => 800,
         'height' => 600,
-        'url' => 'https://www.flickr.com/photos/desescribir/',
-        'web_page' => 'https://www.flickr.com/photos/desescribir/',
+        'url' => 'https://www.flickr.com/photos/desescribir',
+        'web_page' => 'https://www.flickr.com/photos/desescribir',
         'thumbnail_url' => 'https://live.staticflickr.com/8765/17244790083_d2f40f713f_b.jpg',
         'thumbnail_width' => 800,
         'thumbnail_height' => 600,
